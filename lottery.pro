@@ -8,7 +8,7 @@ QT       += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = day2_hw
+TARGET = lottery
 TEMPLATE = app
 
 
